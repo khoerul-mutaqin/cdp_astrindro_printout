@@ -1,0 +1,4 @@
+1. https://astrindo-staging-25441822.dev.odoo.com/report/pdf/cdp_astrindro_printout.report_approval_request_custom/2
+2. https://astrindo-staging-25441822.dev.odoo.com/report/pdf/cdp_astrindro_printout.report_purchase_order_custom/1
+3. https://astrindo-staging-25441822.dev.odoo.com/report/pdf/cdp_astrindro_printout.report_helpdesk_ticket_custom_svr/1
+4. https://astrindo-staging-25441822.dev.odoo.com/report/pdf/cdp_astrindro_printout.report_helpdesk_ticket_custom_svo/1
