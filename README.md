@@ -11,6 +11,7 @@
 9. https://astrindo-staging-25441822.dev.odoo.com/report/pdf/cdp_astrindro_printout.report_saleorder_custom_proforma_invoice/9
 10. https://astrindo-staging-25441822.dev.odoo.com/report/pdf/cdp_astrindro_printout.report_saleorder_custom_proforma_invoice_materai/9
 11. https://astrindo-staging-25441822.dev.odoo.com/report/pdf/cdp_astrindro_printout.report_invoice_qrcode/4
+12. https://astrindo-staging-25441822.dev.odoo.com/report/pdf/cdp_astrindro_printout.report_credit_memo/4
 
 
 <br/>
