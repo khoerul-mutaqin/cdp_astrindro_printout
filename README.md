@@ -15,6 +15,7 @@
 13. https://astrindo-staging-25441822.dev.odoo.com/report/pdf/cdp_astrindro_printout.report_kwitansi_materai/4
 14. https://astrindo-staging-25441822.dev.odoo.com/report/pdf/cdp_astrindro_printout.report_kwitansi_no_materai/4
 15. https://astrindo-staging-25441822.dev.odoo.com/report/pdf/cdp_astrindro_printout.report_payment_receipt_custom/4
+16. https://astrindo-staging-25441822.dev.odoo.com/report/pdf/cdp_astrindro_printout.report_purchase_receipt_dot_matrix/4
 
 
 <br/>
