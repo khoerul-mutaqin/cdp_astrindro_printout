@@ -6,7 +6,7 @@
 4. https://astrindo-staging-25441822.dev.odoo.com/report/pdf/cdp_astrindro_printout.report_helpdesk_ticket_custom_svo/1
 5. https://astrindo-staging-25441822.dev.odoo.com/report/pdf/cdp_astrindro_printout.report_saleorder_custom_quotation/65
 6. https://astrindo-staging-25441822.dev.odoo.com/report/pdf/cdp_astrindro_printout.report_saleorder_custom_so/65
-7. https://astrindo-staging-25441822.dev.odoo.com/report/pdf/cdp_astrindro_printout.report_stock_picking_custom_sn/8
+7. https://astrindo-staging-25441822.dev.odoo.com/report/pdf/cdp_astrindro_printout.report_stock_picking_custom_sn/16
 8. https://astrindo-staging-25441822.dev.odoo.com/report/pdf/cdp_astrindro_printout.report_stock_picking_custom_no_sn/8
 9. https://astrindo-staging-25441822.dev.odoo.com/report/pdf/cdp_astrindro_printout.report_saleorder_custom_proforma_invoice/9
 10. https://astrindo-staging-25441822.dev.odoo.com/report/pdf/cdp_astrindro_printout.report_saleorder_custom_proforma_invoice_materai/9
