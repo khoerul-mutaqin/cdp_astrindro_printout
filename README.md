@@ -1,7 +1,7 @@
 <h3>List Printout Astrindo: </h3>
 
 1. https://astrindo-staging-25441822.dev.odoo.com/report/pdf/cdp_astrindro_printout.report_approval_request_custom/2
-2. https://astrindo-staging-25441822.dev.odoo.com/report/pdf/cdp_astrindro_printout.report_purchase_order_custom/1
+2. https://astrindo-staging-25441822.dev.odoo.com/report/pdf/cdp_astrindro_printout.report_purchase_order_custom/8
 3. https://astrindo-staging-25441822.dev.odoo.com/report/pdf/cdp_astrindro_printout.report_helpdesk_ticket_custom_svr/13
 4. https://astrindo-staging-25441822.dev.odoo.com/report/pdf/cdp_astrindro_printout.report_helpdesk_ticket_custom_svo/13
 5. https://astrindo-staging-25441822.dev.odoo.com/report/pdf/cdp_astrindro_printout.report_saleorder_custom_quotation/65
